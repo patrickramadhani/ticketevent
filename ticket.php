@@ -245,7 +245,8 @@
                 
                 <div class="footer">
                     Terima kasih, <?php echo htmlspecialchars($nama); ?>!<br>
-                    Selamat menikmati event!
+                    Selamat menikmati event!<br>
+                    Code by Patrick Ramadhani, 2412037 Universitas Mulia.
                 </div>
                 <?php
             } else {
