@@ -144,7 +144,7 @@
 <body>
     <div class="container">
     <div class="form-box">
-        <h2>Form Pemesanan Tiket Dies Natalis 2026!</h2>
+        <h2>Form Pemesanan Tiket <br>Dies Natalis 2026!</h2>
         <form method="POST" id="formPesan">
             <div class="form-group">
                 <label>Nama Pemesan</label>
