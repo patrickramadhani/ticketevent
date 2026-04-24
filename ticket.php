@@ -166,7 +166,7 @@
                 <div id="errorJumlah" class="error"></div>
             </div>
 
-            <button type="submit">Pesan Tiket</button>
+            <button type="submit">Pesan Tiket Sekarang!</button>
         </form>
     </div>
 
